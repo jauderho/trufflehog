@@ -9,7 +9,7 @@ replace github.com/zricethezav/gitleaks/v8 => github.com/trufflesecurity/gitleak
 require (
 	cloud.google.com/go/secretmanager v1.4.0
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.11
-	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1465
+	github.com/aliyun/alibaba-cloud-sdk-go v1.61.1572
 	github.com/aws/aws-sdk-go v1.43.27
 	github.com/aws/aws-sdk-go-v2/credentials v1.11.2
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.3
